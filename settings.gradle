@@ -16,3 +16,4 @@ rootProject.name = "BindView"
 include ':app'
 include ':BindviewAnnotation'
 include ':BindviewAnnotationProcessor'
+include ':BindViewRuntime'

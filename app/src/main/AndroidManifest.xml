@@ -10,13 +10,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BindView">
         <activity
-            android:name="com.itbird.bindview.v3.BindViewTestV3Activity"
+            android:name="com.itbird.bindview.v4.BindViewTestV4Activity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.itbird.bindview.v3.BindViewTestV3Activity" />
         <activity android:name="com.itbird.bindview.v2.BindViewTestV2Activity" />
         <activity android:name="com.itbird.bindview.v1.BindViewTestV1Activity" />
     </application>

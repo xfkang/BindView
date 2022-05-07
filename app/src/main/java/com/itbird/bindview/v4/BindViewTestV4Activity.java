@@ -1,7 +1,3 @@
-# BindView
-
-## How to use：
-```
 package com.itbird.bindview.v4;
 
 import android.os.Bundle;
@@ -43,4 +39,3 @@ public class BindViewTestV4Activity extends AppCompatActivity {
         }
     }
 }
-```
