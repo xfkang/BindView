@@ -13,7 +13,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "BindView"
-include ':app'
+//include ':app'
 include ':BindviewAnnotation'
 include ':BindviewAnnotationProcessor'
 include ':BindViewRuntime'
