@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BindView</string>
+    <string name="bindview_text1">bindview_text1</string>
+    <string name="bindview_text2">bindview_text2</string>
+    <string name="bindview_text3">bindview_text3</string>
+    <string name="bindview_text4">bindview_text4</string>
+</resources>
